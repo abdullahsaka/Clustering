@@ -1,4 +1,4 @@
-Clustering Projects in R 
+#Clustering Projects in R 
 
 This repository demonstrates clustering algorithms such as hierarchical and partitional clustering.
 
